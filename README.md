@@ -1,1 +1,1 @@
-# mysns
+# python practice
